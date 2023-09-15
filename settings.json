@@ -33,5 +33,6 @@
    "editor.minimap.autohide": true,
    "editor.indentSize": "tabSize",
    "editor.mouseWheelZoom": true,
-   "explorer.compactFolders": false
+   "explorer.compactFolders": false,
+   "workbench.colorTheme": "Default Dark Modern"
 }
