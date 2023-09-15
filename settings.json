@@ -1,0 +1,37 @@
+{
+   "editor.tabSize": 3,
+   "editor.detectIndentation": false,
+   "git.confirmSync": false,
+   "git.enableSmartCommit": true,
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "editor.formatOnSave": true,
+   "extensions.supportUntrustedWorkspaces": {
+      "esbenp.prettier-vscode": {
+         "supported": true,
+         "version": "9.9.0"
+      }
+   },
+   "telemetry.telemetryLevel": "off",
+   "terminal.integrated.cursorStyle": "block",
+   "terminal.integrated.cursorBlinking": true,
+   "editor.bracketPairColorization.enabled": false,
+   "editor.accessibilitySupport": "off",
+   "prettier.printWidth": 150,
+   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+   "[python]": {
+      "editor.defaultFormatter": "ms-python.python"
+   },
+   "editor.cursorBlinking": "smooth",
+   "editor.cursorSmoothCaretAnimation": "on",
+   "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+   "editor.fontSize": 16,
+   "editor.lineHeight": 1.6,
+   "window.commandCenter": true,
+   "prettier.tabWidth": 3,
+   "editor.minimap.renderCharacters": false,
+   "editor.minimap.scale": 2,
+   "editor.minimap.autohide": true,
+   "editor.indentSize": "tabSize",
+   "editor.mouseWheelZoom": true,
+   "explorer.compactFolders": false
+}
