@@ -26,7 +26,6 @@
    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
    "editor.fontSize": 16,
    "editor.lineHeight": 1.6,
-   "window.commandCenter": true,
    "prettier.tabWidth": 3,
    "editor.minimap.renderCharacters": false,
    "editor.minimap.scale": 2,
